@@ -1,0 +1,9 @@
+payment_pk,payment,loyalty_card
+1,visa,F
+2,cash,T
+3,americanexpress,T
+4,mastercard,T
+5,visa,T
+6,mastercard,F
+7,cash,F
+8,americanexpress,F
