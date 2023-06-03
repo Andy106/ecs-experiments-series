@@ -5,7 +5,7 @@ import requests
 
 app = Flask(__name__)
 
-myconn = psycopg2.connect(database = "DataWarehouseX", user = "postgres", password = "Anand4321", host = "localhost", port = "5432")
+myconn = psycopg2.connect(database = "DataWarehouseX", user = "postgres", password = "xxxx", host = "localhost", port = "5432")
 mycursor = myconn.cursor()
 
 @app.route("/")
