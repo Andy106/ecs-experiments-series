@@ -1,1 +1,0 @@
-The data and code for my 'Experiments with ECS' series available at https://medium.com/@kalpananand.sharma/experiments-with-ecs-series-topic-1-deploy-1-application-to-ecs-and-expose-the-same-using-1-alb-85fa4bb5b536
